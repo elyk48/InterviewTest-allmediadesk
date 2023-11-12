@@ -8,10 +8,6 @@ npm install
 Launching the Application
 To start the application, run the following command:
 
-bash
-Copy code
-node your_script_name.js
-Using the Application
 Calculator:
 
 Choose option 1 when prompted.
